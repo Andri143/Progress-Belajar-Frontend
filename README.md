@@ -1,2 +1,2 @@
 # Progsess-belajar
-Progress belajar tahun 2021
+Progress Belajar Frontend Tahun 2021
